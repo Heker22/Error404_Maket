@@ -1,3 +1,6 @@
-header{
+body{
     container: 1200px;
+}
+.box{
+    display: flex;
 }
